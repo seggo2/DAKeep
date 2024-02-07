@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danodes-712f9": {
+      "hosting": {
+        "da-keep": [
+          "danodes-712f9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danodes-712f9"
+  }
+}
